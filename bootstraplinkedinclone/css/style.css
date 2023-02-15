@@ -149,15 +149,19 @@ button.ref:hover {
   width: 70px;
   height: 70px;
   border-width: 2px;
- 
+
 }
 
-.leftside{
-
-  position:fixed
+.sticky1 {
+  position: sticky;
+  overflow: visible;
+  top: 60px;
+    
 }
 
-.rightside{
-
-  position:fixed
+.sticky2 {
+  position: sticky;
+  overflow: visible;
+  top: 60px;
+    
 }
